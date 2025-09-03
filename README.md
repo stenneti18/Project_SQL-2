@@ -1,6 +1,6 @@
 # Netflix Movies and TV Shows Data Analysis using SQL
 
-![Netflix Logo]('/Users/santhoshtenneti/Documents/SQL/SQL Projects/Netflix P2/logo.png')
+![Netflix Logo]()
 
 **Project Title**: Netflix 
 **Database**: SQL_PROJECT_2
