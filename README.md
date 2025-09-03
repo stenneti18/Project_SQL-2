@@ -1,6 +1,6 @@
 # Netflix Movies and TV Shows Data Analysis using SQL
 
-![Netflix Logo]()
+![Netflix Logo](https://github.com/stenneti18/Project_SQL-2/blob/main/logo.png)
 
 **Project Title**: Netflix 
 **Database**: SQL_PROJECT_2
