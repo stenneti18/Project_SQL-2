@@ -1,5 +1,7 @@
 # Netflix Movies and TV Shows Data Analysis using SQL
 
+![Netflix Logo](
+
 **Project Title**: Netflix 
 **Database**: SQL_PROJECT_2
 
